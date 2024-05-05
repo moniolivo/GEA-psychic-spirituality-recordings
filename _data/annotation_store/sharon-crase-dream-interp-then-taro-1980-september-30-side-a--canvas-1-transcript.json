@@ -1,0 +1,907 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Learning dream interpretation through the tarot. Now we don't charge for any of the Tuesday night classes here but we do have a donation basket for anyone afterwards who feels like they'd like to give something. It goes to the church here of which this is the church. I see a lot of familiar faces here from other lectures. Hi, this is the place.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Female Participant 1:</b> Okay.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> We have some really good speakers here, and most of the speakers stand up in front of the blackboard and they don't use any notes and they're very just full of information. I thought tonight, I'm going to be really brave, and I'm going to give up my notes. Then I thought but those other speakers are Geminis, they're aerosols, they're very fast, sharp people. I'm the Pisces, I'm a little bit timid, I'm a little bit emotional, so I rationalized, and I decided I was going to keep my notes again.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> This passed about right. I created this dream spread a couple of years ago. Actually, it came through a dream, a dream that I had where I dreamed about a spread, and I remember seeing an entire layout of cards in my dream. When I woke up, I didn't remember what cards were where or anything, but it started me thinking, and it started the whole process of wouldn't it be neat to interpret dreams through the tarot? I worked with it and experimented and it took a long time and I put it all together and it worked really fine. Tonight, I'll share with you what I came up with. First of all, talk a little bit about dreams. I find dreams very exciting. [knocks] Come on in. Is there another chair back there? Yes, back there in the corner.\n\nTo me, dreams are just like meditation. The emphasis today on meditation is so extreme when you stop and think that dreams come from the same place, the same source that anything we get from meditation comes from. Hi, you might want to just take that off there, and use that chair.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.0,150.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Male Participant:</b> No chairs back there.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.0,180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase: </b>Is there? Okay.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.0,210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Female Participant 1:</b> [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210.0,240.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Great. I don't remember my meditations very well, but I remember my dreams very well. Therefore, I'm more comfortable with the dream world. Other people remember what happened in meditation a lot, and I've talked to people and looked at it and have come up with the idea that people who are really into meditation and really remember a lot don't tend to recall their dreams and vice versa.\n\nIt's like some part works for one type of person that doesn't particularly work for the other type of person. I don't know what to make of it. I just find it very interesting. In this culture, people do tend to remember their dreams if they're living a slow pace. If they're not so hurried, if they're not so busy. people that are very, very active and don't stop don't tend to remember their dreams as much.\n\nA lot of people say they don't dream. I've heard this so many times, \"I don't dream.\" Well, research has shown that we all dream. We have to dream. There is a study that shows that there is a population of people who dream very little if at all, and those are alcoholics. Alcoholics go so deep into a stupor when they sleep that they go beyond whatever that dream area is. Consequently, they have difficulty coping with life, and they don't dream. It's a vicious circle because dreams are actually a way of expressing a lot of things that go on during the day that we either ignore, we don't see, or in some way, we hold back a lot of emotional feelings.\n\nThese feelings come out in dreams at night. People who are very timid during the day, but they get angry inside but they won't let their angry out, they'll get angry in their dreams, and they really express that feeling. I'm sure that everybody has had the type of dream where you cry very, very deeply, just sob or very depths of your soul. You're actually crying on some level. You're actually having a real release in those dreams. Dreams serve a very important function, and that is actually to keep us sane.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.0,300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase: </b>We need a bigger room. We don't have anything to fear from dreams, not even nightmares. Nightmares come from either too much rich food too late at night, or else there's something very important that whatever our dream-self, whatever part of us that is, is trying to get a message across to us, and we just won't listen. We all remember our nightmares. We wake up terrified, and that's our dream self way of saying, \"Okay, dummy, are you going to get it?\" We usually remember the nightmares. The important thing is to work with it and to figure out what the nightmare is trying to tell us because it's very important.\n\nWe also have recalling dreams that are trying to tell us something. People will say, \"Well, I have the same dream over and over and over and I've had it for years.\" Well, when that person figures out what the dream is trying to tell them, they will stop having that dream. There's something very important that's trying to come through, and I call this a dream self for lack of a better term. In my article, I call it a high priestess, but I'll get into that later. Some people call it a higher self. It's the subconscious. The awake world is known as the conscious world. The dream world, the psychic world, the meditative world is the subconscious world.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.0,330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> There's not an organ in our body that is called the dream self that we know our dreams come from. We have no idea where it comes from. It's just some force within us that's a very exciting force, and it's a very individual force for every person. We all have our own individual dream vocabulary. Not one of us in this room has the same dream vocabulary. It's based on our experiences, our background, our belief, our studies, whatever we're into at the moment. [unintelligible] people have very [unintelligible] dreams. Christian Bible people have very Christian Bible dreams. People very much in the numbers and colors have numbers and colors.\n\nI had a client once who dreamed of squares and circles and rectangles and it made sense to her. She knew what it was. Wouldn't make sense to me, but they did to her. It's very individual. I tend to dream mostly about people. A lot of people, action dreams, but everybody's different. Now it's exciting to figure out what your dream symbols are. A way to do that is to write down your dreams, work with your dreams, and write down the symbols that come up.\n\nThere's eight rules that I learned from a woman who was very special to me, who I took a dream course from at one time about dreams. Her first rule is consider yourself to be everyone and everything in the dream. That's the way to really get in touch with your own dream symbols. For example, if I dream of a male, then he's some masculine part of me. Make your own dictionary. Make your own dream vocabulary. When you have later dreams, you can look at your vocabulary, you can look at your dictionary and know.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "330.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase: </b>For example, if you dream about a dog, what does that dog mean to you? To you, it might mean that it's friendly; to you, might mean it's dirty; to you, it might mean it's vicious. It's very different. Keep your own journal and just look at it and it becomes really easy to interpret your dreams because it's all there for you. It's an exciting process. Write down your colors. Most people seem to dream in black and white, and so when they have a color dream, it's very exciting, and those colors are very important. Other people say they dream in color a lot. I don't know what to make of that.\n\nThe second rule is take the dream literally first, then symbolically. Dreams are usually symbolic, but sometimes they're very literal. For example, you dream that your car is out of gas. Check your car, see if you've got gas in it first. Then if it's okay, then it's probably telling you that your physical body is run down and you need a bit more energy or something like that. A lot of times, they are literal, and they're trying to warn you of some or to help prevent something from happening.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "360.0,389.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> The third one is always look for a lesson for your own self-improvement because dreams are totally for our own self-improvement. Dreams have a very spiritual basis. All dreams do. It's my personal belief that every single dream is important regardless of how short it is, whether you just remember a fragment or a scene or a sentence or a word or a name or something. It's all there for a reason, and the reason is very important.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.0,420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> The fourth rule is tell your dreams to someone. That's important because it keeps the dreams in your consciousness and in the sharing process, other people tend to get hits on dreams that you may miss. Sometimes it's a little bit difficult to interpret our own dreams because we're very close to it, and dreams tell us a lot of things that we don't want to hear a lot of times, so we'll just skip over the obvious. Whereas we tell it to another person and they say, \"Oh, look you here.\" You go, \"Oh yes, that's right.\" That's a good thing to do.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "420.0,450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> The fifth rule is act upon your dreams because again, dreams are given to us for a reason. Reason to take some sort of action. The sixth rule is finish your dreams. If you don't like the end of a dream, change it. Make up a happy ending. Change a pursuer. If you wake up in the morning feeling just really awful because of a dream memory, lay there for a little bit longer and change it. If someone's chasing you and it feels really evil or horrible or sinister or something, change it to someone that you really like, and have a good, happy ending, and wake up feeling a whole lot happier than you would've anyway.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.0,480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> The seventh is tell yourself to repeat dreams that you don't understand. That means the next night or the next night before you go to sleep, program yourself. Ask your dream self, your higher self. Whatever part of yourself you consider it. Ask it to repeat a dream that you don't understand. Edgar Cayce says to ask yourself to give you a dream in very simplistic terms, and he also says to give it to you through an interpreter. That's what it is.\n\nI've tried that, and I haven't come up with an interpreter dream, but it may work for somebody. The dream may change, but the message will be the same. In other words, if you ask for clarification on a dream or the same dream again, it may be different, but it's going to be leading towards the same thing. Dreams tend to come in blocks, too. Three, four nights in a row, you might have a series of dreams that all relate to the same thing.\n\nIt's interesting at the end of the week to look back over your dreams and put them all together and try to figure out from the week what they had in common and what the common theme was. That's really easy to do with [unintelligible] which we'll get to later. Then the eighth rule is record and review your dreams. Face the emotion of your dreams because these are a real clue to what's going on inside.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "480.0,510.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Now, it's very important to record your dreams, to write them down in the morning, to tape them, to tell them to a friend, and even during the day, if you don't remember them first thing in the morning, but during the day you get a fragment or a snatch of the dream, write it down because it's important. Now a lot of people always ask, \"How can I remember dreams? I don't remember dreams.\"\n\nI think there's many reasons for that, and number one is that people were too speeded up too fast. There're in too much of a hurry. They don't take time to really cultivate it. It's like we have to learn to meditate. Meditation doesn't come on the first try, the second try, or the third try, and dreams don't always come naturally either. Some people meditate easier than others. Some people remember dreams easier than others.\n\nThe ones who don't remember your dreams, you have to cultivate a relationship with your dream self. You have to get to know your dream self, and you have to talk to your dream self and prove to your dream self that you're going to be serious. People who do have dreams and they don't write them down or don't do anything with it, it's like the dream self says, \"I'm doing all this work, and for what?\" It's the dream self is not going to work very hard.\n\nIf you talk to your dream self, ask your dream self at night for a particular dream on a particular subject, or just that you want to remember a dream. Then you prove to your dream self that you're serious by writing down your dreams in the morning, in the middle of the night if you can. That's a tough one for everybody. If you wake up in the middle of the night from a dream, that's an important dream. You woke up, you woke up for a reason. That's the really important one to write down. It's much easier to remember the one in the morning when we wake up, naturally.\n\nIt's like you have to learn how to remember your dreams if it doesn't come naturally. It doesn't work right away. It might not work for weeks or even months. You have to keep at it and keep at it and prove yourself that you're going to be very serious. Then your dream self is very happy and decides that it's going to cooperate and send you all these really nice dreams. Then you say, \"Yes, but I can't understand the dreams, so what good is it?\" That's something else that needs to be learned is how to interpret the dreams. [silence]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "510.0,540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Certainly, it's much better if you can awake in the morning without alarm clock because when the alarm clock goes off, it's zap, and everything is just shaken right out of your consciousness. You can also program yourself to wake up at any time that you want in the morning, naturally without an alarm clock. I haven't used one for years, and I'm a very punctual on time kind of person. It just works that way for me because I want it to.\n\nLife still in the morning, and let the dream memory just come to your consciousness. Get up slowly, go to the bathroom, but hold it in your mind while you're going to the bathroom, and then as soon as possible, write the dream down. Again, even the smallest dream fragments and even a feeling because a lot of times, it's not what the dream says, but it's the feeling of the dream. It's the emotion in the dream that's very important for you to get. Write that down. Write down how you feel.\n\nAny resistance is from the ego, which doesn't mentally understand the dream message, and also the ego doesn't want to see a lot of things about ourself so tends to help us not to remember that sort of thing. The ego, and especially the mental mind, the conscious mind freaks out at dreams and says, \"What is this nonsense? Who can understand this? This is just a bunch of words, and it's silly.\" Most people say, \"I just had this silly dream that doesn't mean anything.\"\n\nWhat is happening when we're asleep is the mental mind is asleep, the conscious mind is asleep. We're getting these pure thoughts, pure information that come through, but it's on a totally different level than the mental level, and so the mental mind just freaks out because it doesn't know how to cope with it, and it doesn't want to cope with it. Again, everyone dreams, and we usually start dreaming about three or four hours after we go to sleep.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "540.0,570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Sleeping is a real trusting process. You really have to let go and be very vulnerable, and a lot of people don't let go. They're still uptight when they're sleeping, and there's a lot of fear involved. Again, it takes practice. It takes a desire and a willingness and work to really get into dreams. [silence] When you wake up feeling joyous, you've probably had some spiritual experience, some high experience, but if you're grumpy or angry when you wake up in the morning, you probably saw something about yourself that you didn't like.\n\nNow a lot of work goes on in dreams too. Like I say, releasing emotions confronting aspects of ourselves that we don't particularly like. Some mornings, you may wake up tired than when you went to bed because you've been very, very busy doing a lot of work in dreams. I think that the work that goes on in dreams is equally as important as the work that goes on when we're awake and that the work that goes on in dreams influences our awake life a lot more than we know, a lot more than we even realized.\n\nThere's so much that goes on that we don't know. We can just intuitively feel. A good way to help you figure out what certain dream symbols may mean to you is to look up in a dictionary because we all have our own private vocabulary, but there are a lot of universal symbol.\n\nThose universal symbols are usually just found in the dictionary. Look in the dictionary and see if it doesn't spark off some train of thought in your mind.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "570.0,600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase: </b>Now there are a lot of books on the market about dreams, and I have a book list here. I'll give you at the end. I believe that most books that have a dream vocabulary in them, I don't know where they got the information, but it certainly doesn't fit for me and the people that I know. There are a couple that help me and those couple, I feel somewhere, somebody got some pretty high information, and maybe it doesn't exactly fit the symbol for me, but it triggers my thinking off until I do figure it out.\n\nI'll mention a couple of those. One is, Do You Dream by Tony Crisp. C-R-I-S-P. Another one is Watch Your Dreams by Ann Ree Colton. C-O-L-T-O-N. Now those are two books that, for me, have a very spiritual type basis and pretty much in tune with a lot of things that I think about or I might believe in today.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "600.0,630.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "630.0,660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Have to put that in. All the other books and I have an extensive dream book library. All the other books just-- If you fall down in an elevator, it means bad luck that day, or those sort of things are just not really on target. If you look in a dictionary, that's something that will help you again to really trigger off something to lead you to your own process because with my spread, even the interpretation will tell you basically what the dream is about, what different level it's on, whether it's positive, whether it's got some negative aspect, what you need to do about it and all that. It doesn't tell you anything. It doesn't tell you everything. It's the first step.\n\nIt lays the foundation for you. Then you've got to start searching within yourself. That's what these couple of books do, too is they just give you the first step, but the search is yours. It's like a treasure hunt interpreting dreams. Other people can help you with your process, but no one can really interpret a dream for someone else. We can make suggestions and tell you hits or feelings that we might get, but essentially, it's your own interpretation, and it's got to feel right.\n\nDon't ever take anyone's word for it if it doesn't feel right and say, \"Oh, yes, okay, well, I didn't think of that.\" If It doesn't feel right, then it's not right because it's got to hit you. It's got to feel within you that that's exactly it. Okay. A lot of people talk about flying dreams, and for most of my research, it seems universal that most people think that those are out-of-body experiences. When you dream about a person from your past, ask yourself what that person represents. What part of you do they represent?\n\nWhat appears to be difficult for you in a dream is also equally difficult for you in awake state. If you act in a way in a dream that you think you'd never act when you're awake, you're repressing. That really is a way that you would act. Some researchers believe that déjà vu is actually dream recall, and the dream which wakes you up is the important dream. Yes.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "660.0,690.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Female Participant 2:</b> [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "690.0,720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> I think it's Edgar Casey. When you speak a foreign language in a dream or you're dressed in foreign clothing, it may be a past life dream in which you're repeating a situation that you're in again in this lifetime and it can shed some sort of light enlightenment on the situation and help you to deal with whatever you're in now. I've had a couple of dreams in which I was in a different country, a different time, different clothes, sometimes different sex, and it was very dramatic situations and very vivid dreams. Each time, when I've really thought about it and woken up, I could apply it to what was going on in my life, but it was real dramatic.\n\nIt's like dreams sometimes really dramatizes and blatantly blow up the situations we're in because we're thick. It takes us a lot to actually figure out what's going on. If you have a fear or phobia or some sort of resistance that doesn't seem to have any basis in this lifetime, ask for a dream about it. Keep asking night after night after night, and eventually, you'll get some sort of past life experience dream that's going to shed a lot of information on that experience for you. If you meet someone you don't like instantly, just instantly, you know, that person is just the type of person that turns you off. Then that night, you'll probably have a past life recall memory of some sort associated with that experience.\n\nSpiritual dreams are very intimate, and they usually follow a period of great sadness or great depression. My teacher, who I learned a lot about dreams from, slept under an electric blanket, and she was convinced that if you sleep under electric blanket, you're inhibited or prevented from your body leaving at night, that some way it interfered with the dream process. She was very cold-natured, so she kept sleeping under her blanket.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "720.0,750.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Again, what is happening in your body affects your dreams, too. What kind of food you eat, how late at night, how much food you eat, drugs, chemical changes, food, alcohol, things like that. Play with your dreams, too. Have a real sense of humor about it. I went to a dream lecture in which we were led in guided fantasy to meet our dream guide. I was very serious about the whole thing and closed my eyes and did all the proper visualization and everything.\n\nWe were told to visualize someplace where we would meet our guide. Mine ended up under something that looked like the Eiffel Tower. I walked under it, and there was this very saintly-looking woman with long white hair and long white robe and just really looked like dream guide should look, really proper. I very humbly went up to her and meekly asked if she was my dream guide. She slowly raised her head and looked at me, and she said, \"You bet your life, Tuts.\"</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "750.0,779.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "779.0,810.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase: </b>I was so taken aback, and I realized instantly that she was saying, \"Look, you're really taking this much too seriously.\"</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "810.0,840.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-a--canvas-1-transcript-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[End of Recording]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "840.0"
+        }
+      }
+    }
+  ]
+}
