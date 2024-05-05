@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Psychic and Spirituality Recordings in the Gloria Evangelina Anzaldúa Papers" ] },
+    "summary": { "en": [ "An exhibit of annotated audio recordings from the Gloria Evangelina Anzaldúa Papers." ] },
+    "items": [
+    ]
+}
