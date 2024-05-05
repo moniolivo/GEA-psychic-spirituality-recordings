@@ -1,0 +1,2302 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> It's a high pre-activity continent but great day for [unintelligible]. Something to give birth to a new project. [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Okay, you have the winged snake, or the wing and snake coming out of the head and cross-culturally, any winged snake has always been associated with creating power. It was the symbol of Mayan or Aztec [unintelligible] Bird is a symbol of mental and the wings are the spiritual, so it's really bringing divine ideas to Earth, to bring it into form, which is [unintelligible], which is real [unintelligible] One in the line of one, when we are in Poland.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Are you going to give out anymore end notes?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> No, that's it for handouts. Okay, the universe card aptly broke into judgement, which is the ultimate test and has the ability to look at things through a holistic way, rather than to pinpoint in segments, then we experience an expansion. The universe card is a major expansion archive into that. The block or obstacle that we've overcome in the floating light block in the background that looks like the Mobius Strip or a floating pelvic bone in the background is literally assembled what we've overcome in order to be expanded, to be expressed, to experience more of our internal universe as well as our external universe.\n\nWe have here that it's a card simultaneously of something ending and something simultaneously new beginning. The sickle, going back to the Eye of Horus is a symbol of completion. The foot dancing on the head of the regenerative snake is new beginnings, something new is being initiated or regenerated. There has been expansion as a result of the growth process, which is the spiral hairdo. Something has been only realized or been made clear, which is the diamond halo.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.0,150.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.0,180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Something that has been totally realized or made clear, which is the diamond halo. Anytime you see a spiral, it's a symbol of growth and evolution. On the figure's head, the hairdo is in a spiral. The diamond halo is clarity, self-realization, as the result of going through a growth process. Every growth process expands us, which is the universe card and allows us to overcome a major block, obstacle, or obstruction, which is this floating strip in the background.\n\nIn the Death card, where you had all the lines and the restrictions, where you're cutting through with the sickle, on the Universe Card, all those limitations and restrictions have been woven into a net to dance upon, so that they no longer bind and restrict us. Here you see the nets all netted, or the limitations and restrictions netted so that this person can move. They're no longer bound by those limitations and restrictions.\n\nSomething has been realized from those limitations, which are all the lights on that [unintelligible] the light of limitations and restrictions. They no longer bind it. Growing, stretching ponds when you pull the Universe card, or for people who are 21 trees, that they stretch and grow the most through four months out of the year, which are pictured by the four animals on the corners of the card.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.0,210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> In Aquarius, the human head, January 21st to February 21st and Taurus, April 21st to May 21st, and Leo, July 21st to August 21st, and Scorpio, October 21st to November 21st. Also, their identity has been totally restructured, which is the perfect building at the top of the card. The internal transformation where the building was being de-structred has been restructured in the Universe card.\n\nThe de-structuring process that took place in the Power card has become restructured, become whole in the Universe card. The card, people who are 21 trees are gifted, working within institutions, organizations, or structures of any kind, or with structures and with buildings, which is the building [unintelligible] under the card. They're also unusually gifted in areas of health, which is the large diamond-back regenerative snake.\n\nThey also have, usually, an incredible gift of becoming very ecologically-minded. The universe, they care about the universe. They're very globally conscious. They might be into solar heating, solar energy, which is the green, taking care of the ecological environment. Also, they're people who really think more on a global or international level and really want to experience as much of the universe as possible. Associated with travel, wanting to explore that, as well.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210.0,240.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Now, in your universe year, or your growth pattern, that is the year where something definitely ends and is over and it's also a year of simultaneously a new beginning. It's a year, literally, where internally, your stretched and expanded and that's near to you externally. The universe opens up. It's also a year that you overcome a major block, obstacle, or obstruction. It's also a year that you could consider making some kind of changes within an institution or an organization.\n\nSee the building [unintelligible] the card. It's also a year that you could take a major [unintelligible] or trauma, to experience some aspect of the universe. Because every outer journey is an inner journey. Okay, so when you pull that card, it indicates the same things that it indicates for your growth year and that's it.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.0,300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Finally. Okay, thank you very much. For those who want to continue, we will start a Minor Arcana on Tuesday evening, that will finish before the end of September. Is it 6:30? It will be 6:30 here.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.0,330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "330.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[crosstalk]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "360.0,389.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Thursday, there is an advanced workshop that starts at seven o'clock.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.0,420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Got it.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "420.0,450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> We might end up talking about that tomorrow, then? [crosstalk]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.0,480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> No, we're following the 26th.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "480.0,510.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Do you do Royal [unintelligible] lines, too?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "510.0,540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Yes, in the Minor.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "540.0,570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Oh okay. The minor is four weeks.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "570.0,600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> The minor's five.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "600.0,630.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Oh, this was five?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "630.0,660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> This is five. Right.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "660.0,690.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> And this was four. Right.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "690.0,720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Four if it's solid.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "720.0,750.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "750.0,779.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Five consolidating into a four. Okay, thank you.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "779.0,810.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Thank you very much.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "810.0,840.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Thank you.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "840.0,870.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[background noise]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "870.0,900.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[sound cut]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "900.0,930.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[unintelligible]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "930.0,960.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Something with the strange noises.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "960.0,989.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Yes, you can hear [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "989.0,1020.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[pause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1020.0,1050.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[background noise]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1050.0,1080.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Hello.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1080.0,1110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Hi, how are you doing?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1110.0,1140.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Fine, how are you doing? [crosstalk]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1140.0,1170.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> I'm going to pick up every sacred word.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1170.0,1200.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1200.0,1230.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[crosstalk]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1230.0,1260.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> No, I don't.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1260.0,1290.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1290.0,1320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Such a tease. You know, it all comes back. It all comes right around. That is incredible. I was never seeing that one, I don't think. I've never seen one like that.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1320.0,1350.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Ahh, what is that?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1350.0,1380.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> It is like a little thing.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1380.0,1410.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1410.0,1440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> I guess some folded, and stretched out, and--</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1440.0,1469.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> It's just like a [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1469.0,1500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Yes, just plug it in.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1500.0,1530.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> That's interesting.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1530.0,1559.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> You can use it as a lapel thing or a [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1559.0,1590.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Oh, yes.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1590.0,1620.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> That's great. Oh, you can take it off the end.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1620.0,1650.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Oh, right, yes.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1650.0,1680.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> That's really wonderful.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1680.0,1710.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Yes, I love it and what I can do with it.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1710.0,1740.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> How much did this cost?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1740.0,1770.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> This costs $70. Just like that.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1770.0,1800.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> You can buy it separately, can't you?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1800.0,1830.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> Oh, right.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1830.0,1860.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[pause] [static noise]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1860.0,1889.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> In case you have trouble seeing these, you might pull out a few [unintelligible] there so that you might have them more readily at hand. We have the eight of discs and you can write that in the heart [unintelligible] on the number 1 position on page 1. Eight of Disks. The two cups in the center part [unintelligible]. In the head of the lovers, and in the feet of the subconscious, the universe.\n\nIn the right hand or the creative position or the work related position is the tower. In the decision at hand, the decision if for a left hand, one reason why you call the whole person is that, again, doing something much more extravagant than the Kapha balance where you're doing what's called the whole person. These are the effects of what it is that you pull out as the net person.\n\nThis would be more or less what we reach for. Two discs brought change, and in the effects we have the Eight of Disks, the 10 of ones, the two of disc and the [inaudible]. [clears throat]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1889.0,1920.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[pause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1920.0,1950.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> All right, let's [inaudible].</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1950.0,1979.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[pause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1979.0,2010.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Okay, now the focus of tonight is to share with you probably the oldest interpretation spread in all of Tarot applications of any kind. What this is based on, originally, is what's been known as the Celtic Cross Spread. Originally, this has been a combination, this spread, which I have permutated or have made a change so that it applies more to the now, is that I've taken this old Celtic Cross spread, which is really a combination of the Celtic Cross, the equidistant cross, and the ladder.\n\nIn the time of the Druids, which the Celtic Cross comes from, the Celtic Cross literally was a symbol of whatever we were experiencing inside the vertical line of the cross, we must demonstrate outside. Whatever we demonstrate outside creates certain effects, which is the ladder. Whatever we build, which is a symbol of the ladder, there are certain effects, and that's the rung of the ladder. Each side of the ladder is literally our dynamic and magnetic energies.\n\nOne side of the ladder is how we start things, initiate things, which is our masculine or our dynamic energy, the other side of the ladder is how we complete whatever we set into motion, which is the feminine. The process in between, the rungs in between, are what we reach for, which could be a symbol of goals, which could be a symbol of certain effects, which could be a symbol of ascendancy, wanting to move higher in our evolutionary growth process.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2010.0,2040.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> In the traditional reading spread, really the classic reading spread, is this spread, it's the cross with the ladder. What I've done is literally called this the whole person spread, taking it from ancient Egypt. This really is the Druids application. What I've taken is the Druid application plus the Egyptian, and the Egyptian plus the balance with the human form, because the cross literally is a symbol of the human form, what's inside we reach out for or we apply, and then that causes certain effects, which is the ladder.\n\nThat's one reason why I call this the whole person spread, rather than the self-cross spread. One reason for that is to take it out of the esoterica, and once again showing that symbols are living, symbols are to be used, symbols are to be applied, symbols facilitate internal processes, they also facilitate external processes. Giving them a more updated name such as the whole person spread, I feel does that.\n\nThe old Celtic Cross spread many of the positions are the same, but what I've done again is give them newer meaning or newer application. For example, the torso is the heart. The number one position of the whole person spread is literally the heart in the past, our emotional patterns of the past. All of those meanings are that you have a number one on the position and then you have the numbers that are corresponding at the bottom of page one, it's the heart and the past.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2040.0,2070.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Literally, whatever comes up there for a person indicates what's happened to them before, how they may have handled things emotionally in the past. It's more emotional past patterns than it is current patterns. Again, you would take the number off the top of the card and you would either go back that this was your emotional nature, or pattern that may go back as far as eight years ago because here we have the Eight of Disks. You would indicate to them that perhaps in 1972, 8 years ago, was a time that you were emotionally prudent, cautious, careful, needing to utilize wisdom, making sure all bases recovered.\n\nThen you can take the astrological aspects, Sun in Virgo, and you can also indicate that somewhere in the past eight years, taking the number off the top of the card, there may have been an important relationship with the Virgo person, someone born August 21st to September 21st. In all interpretation, which is on the second page of your worksheet, is that the first thing you always consider in any interpretation process is the position first, and you would tell the individual the meaning of the position.\n\nThe next thing that you would indicate is the state of consciousness. You'd look to see what suit it is. It's the next thing you look to. This indicates that this person's state of consciousness, emotionally in the past, since it was Disks, it was very practical, needing to utilize really practical common sense application of their emotional nature. The first thing is the position.\n\nThe second thing that you'll take a look at is the suit for an indicator. The third thing that you do is take a look at the general meaning of the card, which is prudent, caution, wisdom, carefulness. The last thing that you might want to take a look at is the astrological symbolism on the card to indicate another probability for the individual. That's a lot of information. Usually, when you take a person back in time when you suggest a date.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2070.0,2100.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> For all of us, it takes some time to reconstruct the past, and so often when you mention a date, you've lost the person at that point in time to anything else that you want to say after that. Often I found that that's the last thing on a card symbol that I'll mention before I go on to the next position because anything that I would say after I mention a date, and that's why usually, we have people bring tapes so that it can be taped so that they can listen to it.\n\nBecause whenever I mention a date, it takes them back to that point in time and they're gone so that they will not really hear what you've got to say following that, and so to be aware of that. Usually date factors or like a Virgo person, because all of a sudden their mind's going to go through all their friends and their birthdays, and so that anytime after that or any statements after that is also going to be somewhat lost. Be aware of that as well.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2100.0,2130.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Speaker:</b> How do you know if [unintelligible]?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2130.0,2160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> I give all the probabilities. For example, I'll go back to the longest time first, I'll say, \"This could have been eight years ago, or when you were eight years old, and it may have come up for you in a different way eight months ago, for you to consider,\" and give them all those checkpoints. Then as a result that then it leaves it to them to call up their own experiences so that they can see how that symbol applies to them directly, rather than me saying to them, or you saying to your client very definitively, \"It was 1972,\" because that's a natural setup. It's not how symbols work.\n\nIf you give them all the probabilities, there's going to be one within that probability that is going to work. I found that to be the case. So that in any kind of interpretation work, stay with the meaning of the card, for example, like with prudence, and indicate that it's caution, carefulness, utilizing wisdom, making sure all bases are covered as far as finances because Disks is the financial suit or as far as health or an external situation.\n\nGive them all of those possibilities, because for one person it may be finances, for another person, it may be health, and for a third person, it may neither be help nor finances, but it could be an external situation. All of those options, again, is going to to give them a picture of their probabilities of what they're creating. What you're doing is operating as a facilitator for all the ways these symbols can work for many different belief systems, lifestyle and individuals.\n\nThis is the first card that they will turn over. It's an indicator of how the past patterns might be affecting them in the present. That's why it would be important literally to take a look at it.\n\nThe next card, and what I love about the whole person spread is that we literally have a miniature cross in the middle of it, because when you lay it out, it would be like this, but it's turned over and they pull them over. The symbol of turning the card over, much like in the Book of Thoth, when you would turn a page, it was a symbol of revelation. Something hidden was about to be revealed. It literally is a very old ritual, and it's part of the ritual practice.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2160.0,2190.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b--canvas-1-transcript-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[End of Recording]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2190.0"
+        }
+      }
+    }
+  ]
+}
