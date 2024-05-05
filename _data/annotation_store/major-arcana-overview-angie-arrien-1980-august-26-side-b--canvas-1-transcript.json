@@ -1,0 +1,1310 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> I haven't found by the number of people I dealt with this [unintelligible] terminologies. [laughter] I know if I pull this, that the fear is so strong that it's about ready to manifest. [unintelligible]. That's why when I pull problematic swords, I'm not that worried if I can change them. I'm still up here on the mental. It just depends which of those swords. If I pull futility then I know I'm either going to go down into confusion or self-cruelty, putting myself down [unintelligible]. I know that at futility I can bounce back into this whole other board and I don't need to go into this whole downward spiral.\n\nIf I pull a negative cup, I know I've got some reaction though, which is going to mean that that negativity has gone to a deeper level. For example, if I pulled the botch on coming indoors then I know that I'm going to this whole terrain. I better start cleaning up my thoughts and my emotional responses before it changes my perspective, my point of view, how I see myself, I see the external situation on how I see other people.\n\nIf I pull stife, frustration, anxiety, and strife, then I know it's not going to be too long before I'm totally oppressed in the situation and then I'll even be worried [unintelligible]. To keep that in mind, there are only three problematic cards on the emotional. If we pull them, it means you go through all six [unintelligible]. There's been some time and investment. It shows you just in consciousness, [unintelligible] that's when you start up all the positive [unintelligible].</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> For reading the consultations, I don't say that to people when they pull worry or fear of failure. I'm not going to go, oh, [unintelligible] they've been through all the nasties and it's about ready to happen. [unintelligible] people they may resolve their problems [unintelligible]. Any questions [inaudible]? Because I just wanted to get you the whole total. When you pull a royalty card, it's exciting is that you've mastered the negative stake on that level. Either older mastery of it or younger mastery of it.\n\nYou've also mastered the positive stakes on that level because these are the teachers, the masters of this whole map. They are the abject, they've been through all the tests, all the initiations. They've shown how they can manifest more potential than last. Questions? [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> Let's say you pull a royalty card first and then on the sword level and then you pull up problematic ones or [unintelligible] how does that work?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> What that would indicate in the daily spread is that you have the mastery, old mastery of it, and it's going to come up with the test to begin you to demonstrate the mastery. It could also be reflected that there could be an external person who can provide the test, see you would handle it differently if you could maintain the aspect. Take [unintelligible] on that.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.0,150.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> The universal principle that we studied in the Major Arcana [unintelligible] so it's coming to [unintelligible]. How are we doing on time?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.0,180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.0,210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210.0,240.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[pause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> If you have that, let's say [unintelligible] on the subconscious, how that's--</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.0,300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Consciously they're aware that [inaudible] they're moving in new directions, but subconsciously before they move in new directions, they [unintelligible] completely unresolved issues from the past because [unintelligible]. Also, we might be [unintelligible]. I want to go through our 16 friends tonight if possible. Get as far as we can go on the royalty cards masters.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.0,330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> Is this [unintelligible]?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "330.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Yes, Minor Arcana is the royalty plus [unintelligible]. The royalty are the masters of these lessons and opportunities. That makes up the entire Minor Arcana.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "360.0,389.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.0,420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> No, we're beginning.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "420.0,450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> Oh, I see. Okay. It's all there.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.0,480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> This is the overview. [laughter] [crosstalk] There are four types of thinking on the mental level, or four different mental views that we attempt to master at different times in our life. There is a mental determination or drive, which is the Nine of Swords. The Nine of Swords literally is mental determination drive to go after a certain goal or a certain idea to really capture it.\n\nThis is a kind of thinking that's supported with strong feeling because it's night in air over water. It's a night in air over the water. This is the kind of thinking that when somebody's expressing an idea, they feel so passionate about it, that they convey their determination, their drive. It's the combination of the mental with strong feeling.\n\nThis drive or determination to move forward, it's really mental movement forward. When you pull the Nine of Swords, it literally indicates that mentally you're determined to move forward, go after a certain goal, and the three Salus the body, mind, and spirit. The three Salus are determined to go in the same direction, the left and right sides of the body, the two swords. The long sword on the right side is the dynamic assertive nature of the Salus on the mental level is going forward. The short sword is the magnetically feminine nature is determined to move forward.\n\nThe long sword or anything on the right side of the body is really the dynamic, assertive masculine ability within our nature to start things, execute things, set things into motion, whether we're male or female. The left side, the dagger is an indication of our ability to pinpoint things mentally, the dagger. Whereas the long sword is to cut through things mentally.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "480.0,510.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "510.0,540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Yes, to pinpoint issues mentally. Whereas the long sword is to cut through mental issues [unintelligible]. The pinwheels on top of the helmet, four pinwheels are symbolic. Anytime you see four, it's symbolic of the four levels of awareness, the mental, the emotional, the perceptual, and physical. All four levels are wanting to go in that same direction. The four pinwheels, the left and right sides of the body, the long sword and the short sword are ready to move in that direction, and also, the body, mind, and soul, the three Salus are also wanting to move in that direction.\n\nNow, remember when these cards were painted in the late 1800s to the early 1900s, and then they were released in 1932 for the first time and then re-released again in the late '60s and '70s. Here you have getting into a helicopter being seen here, prophetically are mental. Interwoven in those pinwheels are the directions of north, south, the words, north, south, east, and west.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "540.0,570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "570.0,600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> It's interesting that the North in ancient Egypt was always associated to air or the mental, air or the mental. The South is always associated to earth or the physical. The East is always associated with the perceptual or the spiritual, and the West is associated with the emotional [unintelligible]. This is why this is called mastery of mental determination because all levels and all aspects of the self are determined to move in motion.\n\nThe horse is the symbol for all of the knights. The horse, cross-culturally is the symbol of power and motion. Power and motion. It's the power mentally to move forward with great determination and drive. It's air over water which indicates it's an idea that has emotional support. Also, when you pull this card, it's going to indicate that in an air sign month, you would have probably more drive either in Libra or an Aquarius or Gemini. This is associated with air, and air signs are Libra, Gemini, and Aquarius.\n\nRoyalty cards don't have any numbers on them, so we can't use them so much for time frames unless you see a zodiac symbol such as the eagle or the snake or the Scorpio or the lion, the Leo and the bull for Taurus or the ram for Aries. If you can't see those signs distinctly pictured, then any of the swords refers to the air sign months like Libra, Aquarius, Gemini. Months with the fire signs, Leo, Aries, and Sagittarius. Water, Pisces, Cancer, and Scorpio. [unintelligible] Capricorn, and Taurus, and Virgo.\n\nSometimes they're doubling up besides. You'll see Taurus could be manifesting in the month of Taurus or through a Taurus person. Mental drive, mental determination is a level of mask, going for something and taking the risks on all levels. Intellectual, rational thinking is featured by the Queen of Swords. The Queen of Swords. She's the mask cutter. The mask cutter. She holds a mask in her hands.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "600.0,630.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "630.0,660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> This is a kind of thinking, and it's very objective, very analytical, very rational. Air on air that was sitting on a huge cloud here. It's very scientific. It's very factual thinking. It's the ability to cut through roles, masks, and defenses. [silence] As a result, it's often how we counsel ourselves. This is the Counselor Arch type, how we give advice or counsel to ourselves as the Queen of Swords. The objective part of ourselves, the observer part of ourself is the Queen of Swords. She cuts through roles, masks, and defenses. She holds an old mask in her hand. It's been around for sometime for her. She cut it off in order to maintain crystal clear clarity and crown, and childlike innocence of curiosity, which is the child's head sitting in the middle of the throne.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "660.0,690.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "690.0,720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> The mental balance or objectivity comes out in a silver skirt or in a gray skirt. Gray is the new color of balance.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "720.0,750.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "750.0,779.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Yes, gray because it's the mergence of white and black. It is the balance between [unintelligible]. [silence] When you pull this card, it indicates that you have mastered the ability to cut through your own roles, masks, and defenses. If you've mastered the ability mentally to be objective about yourself, if you were to give yourself counsel or advice.\n\nThis could also be mirrored to you by an older woman in your life. Someone who could be an air sign, either a Libra, an Aquarius, or a Gemini, or an older woman who is a counselor, a consultant, a psychologist, or a psychiatrist. Or a woman who can cut through roles, masks, and defenses. If it is an air sign person in your life, it could be also male or female. Any of these could work that way who will demonstrate that quality. For example, there could be an older man in my life who is very much a mask cutter, a counselor, or consultant, and so on, but who would have really strong magnetic qualities, nurturing qualities and supportive qualities [unintelligible] quality.\n\nSame thing would be true to the Knight of the Swords. If there was a dynamic older person in my life, that strong drive, could go after things, get a strong determination. It could be a woman, an older woman in my life who had the dynamic course points and assertiveness of a man.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "779.0,810.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> When you use the word older, do you mean older chronologically or possibly here on the long term?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "810.0,840.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> It does indicate age-wise. Someone who is a couple of years older or quite a bit older [unintelligible]. It could indicate a relationship of long longevity or short longevity as well, but usually it's more chronological and historical. There's history involved. We have mental determination and drive as one form of mental mastery. We have objective mental thinking or analytical thinking or scientific thinking, factual thinking, rational thinking. This is most associated with [unintelligible] who is the Queen of Swords.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "840.0,870.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> When you say [unintelligible] person [unintelligible]?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "870.0,900.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> I found it personally to be the case, but [unintelligible] for other people had, whereas the person in my mind [unintelligible] process. [unintelligible]. That's because I have belief systems surrounding me. I don't believe in [unintelligible] process. [unintelligible] somebody else who doesn't have that belief system [unintelligible]. Then it could be more of an internal process [unintelligible] and also with clients that I've seen [unintelligible] and they can talk about first their problems [unintelligible]. This could also be a [unintelligible] in you life to know who already demonstrated or [unintelligible] keep changing.\n\nThe Prince of Swords is creative, intuitive thinking. The creativity on the card comes out in the green, in the body, and also on the chariot. The intuitive comes out in the orange and also with the crystals, the crystal cherry at the large crystal and a diamond. Two, back-to-back pyramids and the pyramids and all the floating orange crystals, which is a symbol of intuition and perception. Crystals are a symbol of intuition, clarity, perception. This is associated with the zodiac sign, particularly of Aquarius. The human bodies in front of the target are associated with the zodiac sign Aquarius.\n\nAquarius is innovative, inventive thinking. That ties in with creative, intuitive thinking. It's a real mental determination because of the power of the prints with the sword held way back to cut through anything limiting or restrictive to creative and intuitive mental thinking and its movement forward, the chariot. All the prints are on chariots, whereas the knights are on horses. The chariots are a symbol of movement, movement forward. Whereas the horses are symbols of power and motion, dynamic power and motion.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "900.0,930.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "930.0,960.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Now, the cap is not Egyptian, it's from French heraldry. Again, this is where [unintelligible] love for knighthood, heraldry came in. Again, that's not Egyptian [unintelligible]. When you pull the Prince of Swords, it can indicate that in the month of Aquarius, January 21st to February 21st would be a good time for you to set a creative, intuitive idea in motion. Somehow near to an Aquarius person, a contemporary, which is a print, is a contemporary or a young person who inspires your intuitive, creative thinking.\n\nAquarius would be the time to cut through mental limitations, restrictions. There are three of them, either three fixed ideas, the three bodies in front, three fixed feelings, or three relationships that somehow on your mind you feel inhibit your creative intuitive thinking or your creative intuitive movement forward on the mental level. That's why the sword is back to cut through any restrictions to your intuitive creative thinking. Whether they are your own thoughts, whether they are your own feelings, whether they are your own perceptions, whether they are externalized people is releasing them so that they can move forward.\n\nThis is the combination of fire and air. It's thinking that's very fiery, intuitive. It's the flash, it's the insight into creative thinking. The Princess of Swords is practical, common sense thinking. Air and earth coming together, the idea of coming to earth, making it practical, musical, analytical. It's practical common sense thinking. The Princess of Swords is the mood fighter. She has her sword and she has one hand on the Earth's pedestal. The pedestal with the little coins on the side. Really determined to bring an idea to earth, sword bring it to earth, determine to fight any moves, all the swirls in the background that would engulf for clarity or cloud for clarity.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "960.0,989.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "989.0,1020.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> It's important for that clarity to be maintained on four levels, which are the butterfly wings. 10 middle wings, determine fight moods, mentally, emotionally, perceptually, and physically in order to make an idea practical, usable. Again, constantly regenerating the idea, which is the springtime bringing you down or holding [unintelligible]. Regenerate, renew those ideas.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1020.0,1050.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1050.0,1080.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1080.0,1110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Yes. Earth and air. [unintelligible] earth or it could be [unintelligible]. Usually, since there's more air, it's a mental, the air takes predominance. Indicating that when you pull this card, it may be important for you to fight your mood in the air sign months of Libra, Aquarius, and Gemini. It could also indicate that the earth sign months would be a good time for you bring an idea to earth, Taurus, Capricorn, [unintelligible] around [unintelligible] the pedestal involved.\n\nIt can also indicate you may need to fight your moods around air sign people. [unintelligible] Gemini, Aquarius person [unintelligible]. Determined to keep your mental nature clear, your practical, common sense [unintelligible]. Again, the four types of thinking that we all eventually master in a lifetime. There are going to be phases where we're strong mental determination. The Knight of Swords. There'll be phases where we are irrational, objective, factual, analytical, scientific thinking [unintelligible] a source, master card.\n\nThe phases where we'll use the creative, intuitive. This can vary from day to day, [unintelligible]. It could also indicate phases where you go into a very practical common sense phase also.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1110.0,1140.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Now, all the knights notice that the horse is very symbolic on the knights because the horse is in air on the Knight Of Swords. It's uplifted, emotional upliftment on the Knight Of Cups. The first time it barely touches ground is on the perceptional back end. Then all of that consciousness coming to earth is the horse's landing. Now, it's interesting to me that all of the knights internally are growing much bigger than the external. Which goes to the Egyptian philosophy that our inner world and our inner bodies, our inner self, our mental nature, our emotional nature, our perceptual spiritual nature, growing much faster than this body that [unintelligible] physical reality. That's being artistically portrayed there.\n\nThe Knights and the Prince are both on high motion, symbols, the knights are on horses, the prince are on chariots. If I pull a knight or prince, that means new movement. It's motion in consciousness. It's movement forward. Which, to be the hunters in consciousness, indicates I'm moving out in consciousness at that level. I'm going out, I'm being very dynamic on that level. I pull a queen or a princess, they're more frontal. They could be called the warriors or the protectors. It could indicate there's something on that level I'm determined to protect as I'm mastering it.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1140.0,1170.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[pause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1170.0,1200.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Is there any any questions on mental? We have time to start with the emotional types of feelings. How we really [unintelligible], 8:15. We'll go through the emotional and then we'll leave the wands and the discs for next week. Then start over 8 through 10, the source. [inaudible], right, and again it's more of a magnetic input. Whereas the knight and the princess, output. Whenever I pull a knight or a prince, I may be in an output stage.\n\nFor example, if I pull a knight and a prince on a mental level, that means I could be putting out a lot of my ideas. If I'm pulling a queen or a princess, it could indicate on a mental level that I'm really protecting, germinating an idea. It's more input to begin more ideas and organize and [inaudible] before I put it out. For example, if a client pulls a lot of queens or princesses, they're very receptive. They're in a very receptive place in my input.\n\nIf a client pulls a lot of knights and a prince, then they want to communicate. It's not for me in that session [unintelligible] start telling them about the symbols. They start talking and then if we turn over a symbol. Yes, that's me. That's exactly what's going on. The knight and the prince is that dynamic nature whereas the princess is a magnetic aspect of ourselves at that level. If I pull a queen or princess, it means I'm really in a receptive mode.\n\nEither it's mental ideas, or it's emotional feelings, or it's seeing other people's point of view. I might be more receptive to other situations externally. If I pull a lot of knights and a prince can indicate [unintelligible], the application really puting it out there. It's output. The knight of cups is emotional loyalty. Ability to master our capacity for loyalty and commitment. Master emotional loyalty and commitment. This is emotional demonstrativeness or givingness. It's the knight of cups on Pegasus, the moving horse.\n\nGiving of the loving cup with Cancer of the crabs coming out of it. Now Cancer is a water sign. We're dealing with the water sign that suits cups. Cancer, Scorpio, and Pisces can be pictured at any time with the royalty cups. This is water. It's all water. It's emotional. This is emotional, loyalty, and commitment to family, which is Cancer, the crab. The emotional relationships that go together. This is where it's loyalty and commitment to people we've had history with for a long period of time.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1200.0,1230.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "major-arcana-overview-angie-arrien-1980-august-26-side-b--canvas-1-transcript-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[End of Recording]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1230.0"
+        }
+      }
+    }
+  ]
+}
