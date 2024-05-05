@@ -5,7 +5,7 @@ permalink: introduction
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-#Annotating Spirituality in the Gloria Evangelina Anzaldúa Papers
+# Annotating Spirituality in the Gloria Evangelina Anzaldúa Papers
 *I wonder if the academic world, which has so much of what I want, is too narrow and rigid for me to fit into. And then…I hear you speak, and I think all I need to do is to continue; being myself, thinking, writing, speaking, listening, reading, taking risks. The risks that you have taken, and continue to take, are such a gift to me. Your voice validates my being in a loving way. I thank you.*
 <br>        —Correspondence to Anzaldúa, 1993
 <br><br>
