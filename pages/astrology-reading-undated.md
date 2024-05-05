@@ -1,8 +1,8 @@
 ---
 layout: item
 title: Astrology Reading, undated [SIDE A]
-manifest_name: astrology-reading-undated-side-a-
-permalink: astrology-reading-undated-side-a
+manifest_name: astrology-reading-undated
+permalink: astrology-reading-undated
 external_manifest_url: 
 
 ---
