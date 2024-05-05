@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Sharon Crase - Dream Interp. then Taro, 1980 September 30 [Side A]" ] },
+    "homepage": [
+      {
+        "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
+        "type": "Text",
+        "label": { "en": [ "Sharon Crase - Dream Interp. then Taro, 1980 September 30 [Side A]" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://llilasbenson.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "LLILAS Benson" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 840.0,
+        "items": [
+          {
+            "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "no media",
+                    "duration": 840.0
+                },
+                "target": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-a-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
