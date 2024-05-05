@@ -6,5 +6,7 @@ layout: home
 ---
 <p align="center">
   <img src="Images/anzaldua foto.JPG">
-##### Gloria Anzaldúa ca. 1991 (Source: <a href="https://voca.arizona.edu/reader/anzaldua-gloria-e">University of Arizona Poetry Center</a>, by Alison Hawthorne Deming)
+  </p>
+<p align="center">
+  ##### Gloria Anzaldúa ca. 1991 (Source: <a href="https://voca.arizona.edu/reader/anzaldua-gloria-e">University of Arizona Poetry Center</a>, by Alison Hawthorne Deming)
 </p>
