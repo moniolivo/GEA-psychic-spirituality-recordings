@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Astrology Reading, undated [Side B]
 manifest_name: astrology-reading-undated-side-b-
 permalink: astrology-reading-undated-side-b-
