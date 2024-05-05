@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Astrology Reading, undated
+title: Astrology Reading, undated [SIDE A]
 manifest_name: astrology-reading-undated
 permalink: astrology-reading-undated
 external_manifest_url: 
