@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Gloria Anzaldúa, Major Arcana Universe 21, Whole Person Spread, 1980 August 21 [Side B]" ] },
+    "homepage": [
+      {
+        "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
+        "type": "Text",
+        "label": { "en": [ "Gloria Anzaldúa, Major Arcana Universe 21, Whole Person Spread, 1980 August 21 [Side B]" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://llilasbenson.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "LLILAS Benson" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2190.0,
+        "items": [
+          {
+            "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "no media",
+                    "duration": 2190.0
+                },
+                "target": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-anzald-a-major-arcana-universe-21-whole-person-spread-1980-august-21-side-b-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
