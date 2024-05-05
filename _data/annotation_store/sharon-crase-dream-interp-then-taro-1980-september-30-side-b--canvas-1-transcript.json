@@ -1,0 +1,1372 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Okay. Are there any drafts? Any questions before I get into the spread? Good.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[laughter]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[background conversation]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Excuse me. You could just repeat [inaudible] just the physical level [inaudible]?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Right. Swords of the mental, cups of the emotional, and wands of the spiritual or the perceptual.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.0,150.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Oh, things should be, as a period of time can last a little back [unintelligible].</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.0,180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Sure. Anytime.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.0,210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1: </b>Thank you so much for having me.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210.0,240.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase: </b>Sure, sure. Anytime at all. It's best to do it of course, while you right there and you're still in the mood, in the spirit of it. Anytime, even if it's several hours later in the middle of the day and you suddenly realize, \"Oh yes, I remember what happened.\"</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> [inaudible] coming back [inaudible].</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.0,300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Coming back. If it's coming back and you haven't quite got it yet.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.0,330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> No, I think I can work with it.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "330.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Yes, work with it and finish it on your own. Make up an ending for it and see if that works. I'm going to weave a little story with my dream spread. These are the original home positions. Are most people here familiar with the tarot? Raise your hand if you're pretty familiar with the Tarot or you work with the Tarot. About half and half. Well, the Tarot cards, this particular deck is the Crowley deck, the flow deck, the Egyptian deck that this article is based upon, except that you can use this spread with any of the decks and it works equally as well. Now, the layout that I have here is the home position of the spread.\n\nThere are nine cards, and I put the card in the position that is the home position. By that, I mean that if you get a card in that position, then you're pretty much on target. I'll explain to you what each position means in this way, but first of all, this is the fool; this is the number zero. This is the first card. This is the last card in the major Arcana. There are 22 major Arcana cards. Well, there's one through 21 and the zero. The zero is both the beginning and the ending. The fool is completeness; the fool is wholeness. I like the fool card a lot, and we're going to use the fool card because the fool symbolizes the excitement, the wonder, the curiosity, the joy at beginning, any journey. This is a journey.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "360.0,389.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase: </b>We're going to go through a journey into the dream world. I want you to get in your mind that we're going to go into the subconscious. We're actually going to journey within ourselves, and we're going to meet all these characters within ourselves. \n\nThese are parts of ourselves. First of all, we're going to be the fool. Now the fool's just really happy and joyous, having a good time, looking everything, and gets off on everything. Gets off on rocks, flowers and just very wide-eyed, innocent. It doesn't have any conditioning, no preconceived notions, or anything. Just totally open to what happens. We're the fool, and we're going down into the subconscious.\n\nWell, actually, before we get down there, the first person that we meet is the magician, the magus, the number one card. This is Mercury, the wing god and the messenger. Now the magician is memory, in this case, the messenger from the gods, the messenger from our deep-down dream self. The magician does the footwork for the high priestess, the hierophant, and the hermit. This is memory. When we wake up with a memory of a dream, it's because of the magician. Magician has brought the memory to us. Magician's always busy running back down, run back up again. Back down, up again. When you say, \"I want to remember a dream.\" It's the magician's job to bring the dream to your awareness.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.0,420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Well, let's see who we meet next. We go down to-- the next position is the adjustment position. Now, this is the real meat of the spread. This is the message. This is what the dream is all about. This is why you had the dream. This is what you need to get. This is what needs adjusted, needs balance, or just needs looked at, or just need a plotting. If you're doing something really good and your dream self wants you to continue it and know it. This is adjustment. This is a blindfolded woman holding scales and resembling the figure justice. All the other cards relate to this position.\n\nThis is actually what the dream self is telling us. It's necessary. She's got a mask over her eyes, and it's necessary for us to take her mask and put it over our eyes and look within in order to get the dream message. Very introspective. Also, observe on the card all the blue and green spears floating above her head. These are like dreams floating up there, waiting to come into consciousness. It's like we have all these dreams all the time, and it's a matter of bringing them down, down into our consciousness for interpretation. Now all the other cards that have spread should be related to this position.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "420.0,450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Wow. It’s getting fun.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.0,480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> In other words, when you're interpreting the spread, relay them all to that through the message. All the other cards will support that particular message. Further down, right below the adjustment card, we encounter the chariot card. This is the tool. This is the action that we need to take. This is what the dream is telling us that this is our work, this is what we need to do, or else it's a mirror of what we're actually doing with what's taking place. The chariot is a very action-oriented card, and the chariot is encouraging us to take a chance, plunge right in, and just dive right down into the dream and confront ourselves, confront things about ourselves that may not be very nice or we don't want to see.\n\nIn order to protect ourselves, put on the gold armor that the chariot has on. You feel a little bit protected because it's scary going down into the dream, but use the armor to protect you. The tool, the chariot position, is telling you this is the action. This is what's got to be done. This is why you have the dream. This is the message, and this is what you have to do about it in the awake world. Take the action, and we come up with the number six card. This is the lover's card. Now the lover's card is the reward card.\n\nIf you take the actio. Now, what better reward than to give and receive love in a balanced way from the highest part of ourselves? The more balanced we are within, on an emotional love level, the more we're apt to draw towards us. Someone else who is equally balanced. In the context of dreaming, this balance can also be expressed as receptivity to the dream, followed by the application of the dream content. This is the reward position. It's like whatever comes up in this position, if you do that effectively, whatever comes up in this position will be the reward then.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "480.0,510.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> What if it's negative?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "510.0,540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Good question. If it's a negative card, it'll be the completion of that. It'll be completed. That's good.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "540.0,570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1: </b>It'll be this [unintelligible].</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "570.0,600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Right. Yes.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "600.0,630.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Would you explain that with the chariot? Why negative would be [unintelligible]?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "630.0,660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Well, if you take the action in the chariot position, then the reward will be the ending of some negative trait.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "660.0,690.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Okay.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "690.0,720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase: </b>Oh, okay?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "720.0,750.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Yes.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "750.0,779.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> For example, fear of failure or something like that. If we really get into asserting ourselves or taking some action, the fear of failure will be wiped out. Not permanently. We're just dealing with a point in time here.\n\n[laughter]\n\nI know. Now we're going to move back in a little uphill. We come to the high priestess. Now, the high priestess is a very important lady in this spread. The high priestess is in charge of the moon realm, in charge of the whole unconscious psychic realm. The high priestess sits there inside us. In fact, the high priestess may be the dream cell. Just sits there looking very royal and very regal and sends us dreams, or doesn't send us dreams, depending on how she feels about us or what relationship we have with her.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "779.0,810.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Which card is the high priestess?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "810.0,840.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> The number two?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "840.0,870.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Number two?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "870.0,900.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Yes.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "900.0,930.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> Put up on the chair [unintelligible].</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "930.0,960.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> State the number two card.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "960.0,989.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[pause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "989.0,1020.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> I have articles here where all this is explained for sale here. Here's the high priestess over here. Now, the magician does her footwork. Magician comes to her and says, \"So and so would really like a dream tonight about what's going on between her and her boyfriend.\" The high priestess says, \"She won't pay attention anyway. Nothing, go away,\" or \"Okay. Well, she's been pretty good lately. She's been paying attention to her dream, so we'll give her one.\" Then, instead of some magician back with a dream, she's the one. She makes all the biggie decisions. She's the one to talk to at night.\n\nWhen you want to know a particular answer to a particular question, problem, or something, talk to the high priestess within yourself and make friends with her.\n\nThe more attention we give to the high priestess, the easier it is to remember our dreams. The card in this position indicates what we're receiving from the dream world, the overall theme of the dream. Now, I'll go back over in more detail exactly what the positions mean after I get through with this little fairytale that I'm having fun with. Right below the high priestess is the number five card, which is the hierophant. Now, hierophant represents what we're learning through the dream message, very much connected to the eight positions.\n\nThe hierophant and the high priestess are partners. They get together, and they hold council on each of us and decides. While the high priestess decides what dream material to send us, the hierophant is responsible for the dream interpretation. He's the teacher, he's the counselor of dreams. We call upon him for help in interpreting our dreams. The card in this position symbolizes what we're learning from the dream. If you're having difficulty in interpreting your dreams, call upon the hierophant within you because he/she, when I say he/she, I don't mean gender, just energy. The hierophant is more of a dynamic energy.\n\nThe high priestess is more of a receptive type energy, but the hierophant is like the spiritual teacher, the spiritual guide, and well, he's pompous sometimes. He likes for you to go to him and ask for interpretations because he likes to show off his knowledge. Because he has a lot of knowledge. Just talk to your hierophant.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1020.0,1050.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[background conversation]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1050.0,1080.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> Over on the other side, on the left, is the number three card, the empress card. Now, empress is very much connected with the final card down here, the hermit card in that both are very deeply concerned with helping the dreamer to be true to the self, to really experience self-confidence, self-esteem. The emperor shows us that the only way that we can love and nourish ourselves and others is to be true to ourselves. This means that we respect and love ourselves in the same way that we love and respect other people.\n\nIn actuality, what this position teaches us is how are we loving ourselves and others? How are we respecting ourselves and others? How are we giving? How are we receiving? How balanced are we in that aspect? How much are we getting back from what we give out? How are we giving out? Right below the empress, the emphasis partner down there is the emperor, the number four card. Now, the emperor is the pioneer, the builder, the doer, the visionary, and the dream spread.\n\nThe emperor takes what the hierophant teaches about the dream message and applies it to our daily world, our awake world. It's like the action that we take in the outer world. It's like the high priestess is more or less what's going on, on an emotional level. The emperor is like what action we're taking, how we are applying ourselves, what direction we're moving in.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1080.0,1110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> The [unintelligible] dream.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1110.0,1140.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> No, the emperor is in the world.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1140.0,1170.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant 1:</b> In the world.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1170.0,1200.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> In this world. Not that world, but this world. What direction we're we moving in as a result of this particular dream and the information that we got through it. Now the last person down here at the bottom is the hermit. Now the hermit is the way shower, the guide through the inner cell. The hermit is a very special card down here because the hermit is the guide. It's like, as we go to sleep, as we're falling down into a deep sleep, just as we enter the subconscious threshold, the hermit is waiting there for us with the lantern and holds the lantern up, takes us gently by the hand, leads us into the dream world to the high priestess.\n\nWe bow before the high priestess and she says, \"Okay, tonight you're going to fly out of your body or you're going to go back to New Jersey and see this kid from your childhood who was really obnoxious because you're really being obnoxious now.\" That sort of thing. The hermit takes you on your journey, guides you, and protects you. Totally protects you. We trust the hermit because he wears the full burgundy cloak, which means that he's totally true to himself, totally true to his inner light and love, and helps us to be true to ourselves. To follow a path which is uniquely our own. There's a close working relationship between the hermit and the high priestess.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1200.0,1230.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> According to the instructions of the high priestess, the hermit takes us wherever for the night. It might be to a spiritual temple for advanced teaching, or he could take us into a nightmare to look at some aspect about ourselves, but we're always protected. The hermit is always there, taking care of us, watching over us, and never leaves us alone. That's why we shouldn't be afraid of dreams or nightmares because we're always protected. When it's through, when it's time to come back, the hermit puts the lantern up again, takes us by the hand, and leaves us very gently back up through our subconscious to our awake state.\n\nAs we look at the hermit card down at the bottom, there's a three-headed jackal. Two heads are going forward, and one head is turned backwards. This represents the way in which the hermit uses our past in some of our dreams. He may take us to our past or past situations to teach us about a lesson that's happening in our life right now. Oh, on the card in the back here, people are familiar with the card. It'd be impossible for anybody to see it, so don't even try. There's just a little, teeny, teeny tiny patch of blue. The back behind some of the darker background there. That symbolizes the conscious world when the hermit is taking us back into consciousness, back into the safety of our awake world.\n\nWe experienced the sensation of being guided from the dream world to the waking world by a trusted servant. An ancient soul has been doing this since the beginning of time and will do it to the end of time. Any card in this last position shows what has been handled or completed on a subconscious level during the sleep. What has been completed, what has been handled in some way that we may not be aware of consciously. Now I'll go back and explain a little bit more precisely what the positions mean. You notice I created a spread, and I still have to look at my own notes. The magician, the very first position up here. That's what I already know about the situation when I'm awake. That's what I'm consciously aware of. I already know about that before I even have a dream. It's like my knowledge surrounding the situation. Of course, I won't think about it 'til I have a dream and then I put it all together.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1230.0,1260.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Sharon Crase:</b> The number eight position, the dream message. The real meat of the dream. What I need to know, what I need to understand, what I need to complete, balance out, or continue in some way if it's a real positive card. Okay. The tool, the number seven, the chariot. What I need to do or to break through to overcome any blocks, or to actualize the number eight, the dream message.\n\nIf there's any so-called positive cards in the entire spread, the action I take in that position will take care of that negativity. Now, if there's a negative card in that position, it means that's what I really need to work through, that's what's got me blocked. Okay? Now, the number six position is the reward for cleaning up any problems or for any good work that's already been done. A problematic card here means a release or break through the problems by using the chariot, the tool the comes up in number seven.\n\nOkay. The hermit card is something that's already been handled in the subconscious that I may not be aware of as a result of the dream. Okay, the high priestess is what I am receiving from the dream world. It's like the overall theme of the dream. This is the dream message, but this is the theme. This is the feeling. This is actually what's been going on in the whole dream.\n\nIn the hierophant, what am I learning from the dream? This is the learning position or what do I need to learn? The empress, how am I being true to myself? Also when I'm awake. How am I being true to myself when I'm awake? The emperor is the overall direction I'm moving in. [silence]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1260.0,1290.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "sharon-crase-dream-interp-then-taro-1980-september-30-side-b--canvas-1-transcript-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[End of Recording]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1290.0"
+        }
+      }
+    }
+  ]
+}
