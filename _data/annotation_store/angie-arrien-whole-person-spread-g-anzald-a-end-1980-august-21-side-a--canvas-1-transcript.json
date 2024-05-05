@@ -1,0 +1,938 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Again, that these are based upon where you're at right now in attitude, beliefs [unintelligible], and goals, these are the probable energy. That's it, probable indicators. Now, all of these positions are related to the whole person position. For example, this position number 7 is probable work and creativity based upon where I am right now with my work and creativity. Position 7 is very much tied with position 5.\n\nI will take a look at this position, position 5, when I'm looking at this position 7. Based upon where I am right now with my work and creativity, and I would say this to the person. Based upon where you are right now with your work and creativity, which is the tower, let's take a look at what you're pulling towards you, which is your probable work and creativity, or probable effect that you might be pulling towards you as a result of what you're causing at this point in time.\n\nOkay. Now, position 8 is the position of relationships, and it's based upon how I am in my heart, which is positions 1 and 2. How my past and my present, how I've been in the past, the changes I've made in the present affect my probable relationship. Before they turn over position 7, I'm going to say, now, the next position that we're going to be turning over is your relationships and probable indicators about what you might be dealing with through relationships based upon where your heart has been in the past and based upon where your heart is in the present.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> I'll say, in the past, you're very cautious, making sure all the bases were covered. In the present, there's more balance and more integration, and then let's take a look at probable indicators. Here we have oppression, which is the direct opposite of past and present. They're really strong with work and creativity. They've got the success card with the ace of dips. By being centered, grounded, practical, utilizing common sense, things will magically unfold for them in the external environment mentally, emotionally, conceptually, physically, which are the four wings. They're really doing a good job with work and creativity. They're really strong in that position. It's not a big issue for them.\n\nThe issue coming up, one of the issues coming up, could be really an emotional issue. Because we have love in the present, we have caution in the past, we have the lover's card in the mind, and we have the transition card of the universe in the subconscious. They're undergoing a change of some kind. At this point in time, you and I as the reader, or the consultant, do not know what that is. We can only conjecture by symbols. We do not specifically know, at this point in time, by symbols.\n\nWhat I can say to this person is that I start reading the ten of wands. In the past, you've been very, very cautious, very, very prudent, making sure all bases were covered with relationships. In the present, there's a very strong emotional relationship. What you might be dealing with in the present is some fear that you might repeat old patterns, because oppression is an arm of prudence. When you're super careful, cautious, you're not being totally spontaneous. It's a form of oppression. It's a form of control.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,60.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Now, the ten of wands is very interesting. Because in their relationships, perhaps in the next ten weeks or the next ten months, they are absolutely wanting to release some kind of oppression, or oppressive situation with the relationship. It could be because they're in a period of choice between two issues, two situations, two directions, two opportunities, two relationships, and a feeling of oppression comes because of that choice.\n\nThis is also Sagittarius. It's Saturn in Sagittarius. Saturn is the planet of limitation and restriction, so they're feeling very limited and restricted in their communication patterns with certain relationships. It could be a Sagittarius person that they feel oppressed about, because this is the Sagittarius car. It also indicates, Saturn in Sagittarius indicates that with a relationship, there's something that they want to communicate, but they're withholding it, oppressing it for fear of how it might be received, or misunderstood, or not heard. In ten weeks, or in ten months, they'll no longer be able to withhold it, no longer be able to oppress. This is wands.\n\nAt a core level, we have to pay attention to this card, because wands is the spiritual suit. At a core level, they really are feeling that oppression. It's not to be taken lightly, because it's not on the mental, which is sword. It's not on the emotional. It's in the perceptual, and at a gut level, which is wands, the spiritual, that they're feeling it. It could be fear that somehow an old pattern is resurfacing. Let's go back to ten years ago. That's very close to eight and ten. Their emotional nature in the past was very prudent, cautious, careful eight years ago, possibly, or eight months ago. Ten years ago, or ten months ago, they may have been in an oppressive situation as far as relationships are concerned. They're really determined, based upon where their heart is in the present, to release any oppressive situations with relationships either in the next ten weeks, or in the next ten months.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Now, it's interesting, because we still haven't turned this card over yet. Hope and fears are directly related to what we think, or our conscious mind, or what we're consciously aware of. Okay, so, in this position, we say this is the position of hopes and fears. What you hope for is a change, and what you fear is that there may not be a change within the next two months. In October, we were reading this from today. October, in the next two months, in October there's going to be an expansive change, Jupiter, which makes things more secure, stable, and solid, which is Capricorn. Also, a change that balances everything out, because the Ouroboros makes the symbol eight, or the number of bells, which is the adjustment card, something that's adjusted, eight is the adjustment.\n\nIt could also be hopes and fears surrounding an Earth sign person, because disks are associated with the Earth sign, like Capricorn, Taurus, or Virgo, and you could just indicate that. It can also indicate hopes and fears about finances changing, which is disks, or about health changing, or about an external situation changing, and overcame all those things. Somehow, in the next two months, there is going to be a definitive external change, I can say that, and actually point to the symbol, of the yin-yang symbol being on its side. When a yin-yang symbol is on its side, it's an external change. When you have the vertical line going to it, it's the internal change.\n\nYou have the yin-yang symbols on their side, which indicates an external change, whereas if they were turned the other way, it would be an internal change. Something definitely is going to happen externally, that is going to change within the next two months.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,120.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.0,150.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Yes. This is external.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "150.0,180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> Right. This is [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.0,210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> That change is going to expand things, and make things more secure and stable. Again, it's the oriental, in this card, more than any other card in the entire deck, it's totally oriental, and the oriental view of change is that change is the only constant. It's not a fearful thing. When people see in the West change on a card, they go usually eek because they equate it with the end rather than a restructuring of, that is your character. That is why it needs to be explained that it is a positive change, even though they can't see it at this point in time.\n\nThe last position is a very important position. It's their natural expression or how they'll come across. It's directly related to the decision-making process. How we come across is how we make decisions of what we set in motion for ourselves. This person has fear of failure in their decision-making process. Their natural expression within the next nine months, the hermit, is going to be one of the hermit, which is completion, perfection, and introspection. It's also the leader, the way shower, the wise man, the philosopher, the leader, and one who is gifted working with the hand which is sometimes the hermit.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "210.0,240.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> It's also, along with the universe card, the two major transition cards in the deck, say being completed from the past and new beginnings. It's also the Virgo card. This person has pulled Virgo before, the heart in the past, eight of disks, Sun in Virgo. This is the card of completion. You can say that perhaps in the next nine months, there might be something that you totally do resolve with an important Virgo person in your life. That you do complete so that you would be free to move forward in new directions. Or it can indicate that an older man, someone who's a couple of years older or a great many years older, will provide a certain opportunity that will take you forward in a new direction based upon what you complete from the past that is unresolved, which is the [unintelligible] of going backwards.\n\nIf it doesn't manifest, and I say this always too. If it doesn't manifest as an older man, it could manifest as a Virgo person because this is a Virgo cause. Now, we've gone through the positions. Now, what I would like for you to do is, here's the person's-- this is an actual reading and it's a case study. This is the person's birthday for you to figure out the personality soul card and a growth symbol for this year. See if you can, in your mind, create what you feel the issue is for this person and be able to back it up.\n\nFor example, on page 3, Case A, you have lines where you can fill that in. The soul card, the personality card, the growth card, the zodiac sign there Leo, which is the strength card. What do you believe to be the specific issues that this person is dealing with at this time, and what specific cards support your observation? You just take it a couple of minutes. Maybe we should take a short break, and then we can come back and maybe spend about 15 minutes with that. Then we can discuss it so I can share with you what this person history is. Because it's only at the end that usually I'll say, give them the opportunity. I'll say, \"Do you have any questions or any comments or any statements?\" It's usually then they'll say, \"Oh, this was right on, and I can't believe this, and this, and this, and this.\" They will or others will just say, it's all pretty clear, answered all the issues, it was all [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[pause]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "270.0,300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> You said we can take a break now?</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.0,330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Yes, we will take a full break. Bathrooms are upstairs. Again, the more risks you take, the more that you're willing to put out, the easier it becomes for you when you have to do it with the client. It's just a whole learning.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "330.0,360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[silence]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "360.0,389.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> The only thing I can say that is real is that they have to make a very important financial decision. That could be dealing with an older person which could be someone who's their boss, or their father, grandfather.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.0,420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> You're basing off that on what specific symbol it says.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "420.0,450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> Yes, imagine it's a man.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "450.0,480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Or also something around creativity work.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "480.0,510.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> It's just a heavy stress [inaudible], a good point to start with. The past [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "510.0,540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> All are correct so far.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "540.0,570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> I see that there's an inevitable, that there's going to be a change in these relationships [inaudible] would be some balancing out in relationships.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "570.0,600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Also, his personality and soul card are very important. The lovers and his growth card for this year is the hermit. The only two cards in the entire deck that have the hermit on them is the hermit card and the lovers, and the [unintelligible], which is the [unintelligible] He's pulled not only his growth card for this year, but he's also pulled his own lifetime symbolism. He has also pulled two transition cards. He's also pulled the transformation card, and as Nicolas pointed out, it's 1, 2, 3, 4 of the cards are disks, so there is a strong practicality nature as well.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "600.0,630.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> There is a theory that feels accessible to understand. I get a business having some real financial change [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "630.0,660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> We know that there's some kind of change that might be taking place with work. There is a might there. This is a transformation card, and he has success. He has good self-esteem in areas of work, regardless of the changes that are going on.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "660.0,690.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Participant:</b> It is possible that physical dynamic that might require to make a change, to get more into it than [inaudible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "690.0,720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> He's pulled Virgo flag too, very significant. A change that could involve an earth point person [unintelligible] or you don't. [laughs] Yes, I do which is just incredible. The man who was very successful in real estate, who absolutely was a pioneer in the field of real estate, he's the inventor of condominiums, and also time-sharing principle in condominiums, which is the tower. Very successful at dealing with groups of people of all ages, obviously within that business, which is the lovers. Also, very interestingly enough, a very important relationship with the Virgo person in the past.\n\nAs a result of that experience, they've grown very emotionally conscious of the relationship. That Virgo person had reentered his life. He himself has seen as a leader, a way-shower, a pioneer in his whole field. It was a picture of himself that there's something to complete from the past, that he's free to move forward. That completion complete place with a Virgo person, and there is some kind of change.\n\nThe Virgo person came back. They were engaged eight years ago. She broke the engagement, got married to someone else, literally got divorced, and came back and said that she made a mistake and she wanted [unintelligible] a relationship. Of course, they had fears of failure come up about that. Also, when they were engaged, two months before they were married, they bought a house together, which was a financial involvement. [unintelligible] No wonder there was some oppression associated with that.\n\nOkay, it's very interesting. Just two weeks ago, he called and invited me to come to their wedding. I had to do it. It's really interesting because the reading was in January, and here we are almost seven months later. Now, any other questions or insights? It's very interesting that here also is a picture of a woman deep in her subconscious, something new to be completed, and also a new beginning in real estate. The only two cards in the entire deck that have buildings on them [unintelligible]</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "720.0,750.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Now, after you do this whole person spread, then you say, are there any questions, because I'm going to rearrange the same card suit by suit to see if they tell us another story. Then what you can do at the end of this reading is really rearrange the cards suit by suit to see if they tell another story. At the very top of the page, you would put wands, all the wands that the person may pull, followed by swords, followed by cups, followed by wands. I mean, wait, disks, and followed by trumps, from top to bottom.\n\nWe're going to take these cards and rearrange them. What you do is you arrange the suits in their numerical order going across, and I'll show you how that works. It always goes from the highest card to the lowest. In disks, the person pulled the highest card, which is eight, the next highest card, which is two, the next one, which is the seven of disks, and the next one, which is the eight of disks.\n\nThen we put cups, which is one cup, which is the next, and there's a void in swords, and one wand, which is the spiritual, or the intuitive, or core level. It's important. Then you have four trumps. What you get is literally a geometric formation of the person's consciousness. The person has what's called a pillar, an imperfect pillar, and pillars are symbols of balance. Since there's one problematic card, it's imperfect. They desire balance, but we call this an imperfect pillar. There's a desire for balance about an emotional issue that is oppressing the person internally. The desire for balance about an emotional issue that's oppressing the person internally.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "750.0,779.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> This person has no swords, which is the mental, so there's something totally on their mind that they're fully aware of that they didn't need to take a look at. Whenever there's a void in a suit, that's the area of consciousness that the person is so aware of the issue that they don't need to take a look at it, or it could be the area where they are avoiding the issue. Because as Cindy says about the word avoid, it literally means to create a void. On the swords, there are none.\n\nTaking a look at this man, you can say, okay, he's oppressed deep inside, since there's not swords about an emotional issue. It goes right next to the next card. This formation, cards by themselves, one card by itself makes a pillar in consciousness. This is like an imperfect pillar. The base of the pillar is okay, a positive card, but the top of the pillar is a problematic card, so that makes it imperfect. If this was a positive card here, then we'd call this a perfect pillar. There would be balance internally at once. There would also be balance emotionally as well.\n\nNow, here is a very unusual formation in consciousness. We have four disks and we have four trunks, and that makes literally a square, which is a symbol of foundation. This formation would be called the grand, because it's large, it's four of each suit. Grand, imperfect, because there are negative cards within it. Fear of failure is the only negative card. Square. The geometric shape of the square is a symbol of foundations, or security, or solidity, or stability. It's a desire for something to be secure, a desire for something to be stable, a desire for something to be solid.\n\nIt's the square. We call it a desire because there's an aspect of it that's imperfect. Seven of disks. If this was a positive card, then this would be the grand, perfect square. All of the cards, positive is perfect, which means that there's no desire for stability. There is stability, solidness, security in consciousness. Right now, this person has what's called the imperfect pillar, a desire for balance on the spiritual level and a desire for balance for something in the external environment, disks, with finances or health or with an external situation to be secure. There's fear of failure about making that a decision.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "779.0,810.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Okay. It tells us a lot about this person right now is Nicholas' insight was very important to take a look at how many of the suits, because this person is very practical, very externally oriented. This is the external suit. It's associated with health or finances or external situations. By the cards that he pulled, this person could not only have been in real estate, he could also have been in health care. Could have been a doctor, could have been associated with the viewing arts because he pulled the tower, also pulled the universe with the regenerative snake, and also pulled all the disks, which is associated with not only finances but health. That could have been a whole other viable profession that could have been supported by the symbol very easily. It's interesting that the buildings came up twice. That could have also been the structures of the body, the anatomy as well, which is the human building.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "810.0,840.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html><b>Angie Arrien:</b> Okay, now you put the cards in their numerical order, like ace, two, seven, eight, and then the trumps in their numerical order, lovers, and from going to the highest, the lovers, six, nine, sixteen, and twenty-one. Then I would read it this way, from top to bottom. One is a picture, it's a suit of, at core level what's really important to you at this point in time, of your intuition, your perception, and of your spirituality.\n\nAt core level, you're feeling very oppressed about a decision that you need to make or a choice that you need to make between two issues, two directions, two opportunities, two relationships, and wanting to communicate something, but fear of how it would be misunderstood or misreceived. That's effectively at a core level. Swords is the mental, and you've pulled no swords at this point in time, which indicates two things whenever you have a void in a suit. It would indicate, number one, you're fully aware of the situation that's on your mind, so you really need to take a look at it symbolically. Secondly, there may be something on the mental level that you're avoiding at this point in time that you can't handle. I would give those two options, and where those shoes fit, they'll wear it.\n\nEmotionally, at this point in time, there is a strong realization about the kind of emotional relationship you need and want, and the kind that you do not need and want, because you have the one card in this position, and you've pulled only one card, so it's pinpointed here that you need this one. disks is the physical, financial, external suit, and you've pulled four disks. You've pulled the ace of disks, which is a success card, the two of disks, which is change, that somehow in the next two months you're going to make an external change that's going to help you release fear of failure, and once again, restoring some caution, wisdom, carefulness, making sure that all bases are covered. That will remind you of some situation that you were involved in eight years ago or eight months ago, and that you want to relieve fear of failure surrounding that. By making the changes and the decisions, you could be successful. You don't only read it this way, but then you come back this way again.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "840.0,870.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a--canvas-1-transcript-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "[End of Recording]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "870.0"
+        }
+      }
+    }
+  ]
+}
