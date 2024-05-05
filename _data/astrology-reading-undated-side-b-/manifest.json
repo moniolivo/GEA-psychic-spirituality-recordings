@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/astrology-reading-undated-side-b-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Astrology Reading, undated {Side B]" ] },
+    "label": { "en": [ "Astrology Reading, undated [Side B]" ] },
     "homepage": [
       {
         "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
         "type": "Text",
-        "label": { "en": [ "Astrology Reading, undated {Side B]" ] },
+        "label": { "en": [ "Astrology Reading, undated [Side B]" ] },
         "format": "text/html"
       }
     ],
