@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/gloria-tarot-for-sally-gearhart-14-may-1981-side-a--canvas-1-tarot-card-description.json",
+  "type": "AnnotationPage",
+  "label": "Tarot Card Description",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-tarot-for-sally-gearhart-14-may-1981-side-a--canvas-1-tarot-card-description-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Queen of Disks\n\n\"Key Words: the watery aspect of earth; fruitfulness; physical nourishment; overcoming the barren past.\"\n\nZiegler, Gerd. Tarot: Mirror of the Soul : A Handbook for the Thoth Tarot, Red Wheel/Weiser, 2023.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-tarot-for-sally-gearhart-14-may-1981-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-tarot-for-sally-gearhart-14-may-1981-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "209.0,542.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-tarot-for-sally-gearhart-14-may-1981-side-a--canvas-1-tarot-card-description-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Hierophant \n\n\"Key Words: Taurus; spiritual master, teacher, advisor, initiate, inner guide, spiritual father; highest transformation.\"\n\nZiegler, Gerd. Tarot: Mirror of the Soul : A Handbook for the Thoth Tarot, Red Wheel/Weiser, 2023.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-tarot-for-sally-gearhart-14-may-1981-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-tarot-for-sally-gearhart-14-may-1981-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "622.0,727.0"
+        }
+      }
+    }
+  ]
+}
