@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/gloria-tarot-for-sally-gearhart-14-may-1981-side-a--canvas-1-location.json",
-            "label": {
-              "none": ["Location"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/gloria-tarot-for-sally-gearhart-14-may-1981-side-a--canvas-1-transcript.json",
             "label": {
               "none": ["Transcript"]
