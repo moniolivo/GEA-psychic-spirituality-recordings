@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/gloria-tarot-for-sally-gearhart-14-may-1981-side-a--canvas-1-location.json",
+  "type": "AnnotationPage",
+  "label": "Location",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-tarot-for-sally-gearhart-14-may-1981-side-a--canvas-1-location-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: Psychology/Metaphysics/Health | Box: 166",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-tarot-for-sally-gearhart-14-may-1981-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-tarot-for-sally-gearhart-14-may-1981-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "622.0,727.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gloria-tarot-for-sally-gearhart-14-may-1981-side-a--canvas-1-location-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Title: Randy Conner and David Sparks, undated | Location: Box: 148 | Folder: 14",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-tarot-for-sally-gearhart-14-may-1981-side-a-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/gloria-tarot-for-sally-gearhart-14-may-1981-side-a-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1609.0,1666.0"
+        }
+      }
+    }
+  ]
+}
