@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/joyce-lieberman-palmist-reading-of-gloria-15-november-1980/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Joyce Lieberman, Palmist, Reading of Gloria, 15 November 1980" ] },
+    "label": { "en": [ "Joyce Lieberman Palmist Reading for Gloria, 15 November 1980" ] },
     "homepage": [
       {
         "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
         "type": "Text",
-        "label": { "en": [ "Joyce Lieberman, Palmist, Reading of Gloria, 15 November 1980" ] },
+        "label": { "en": [ "Joyce Lieberman Palmist Reading for Gloria, 15 November 1980" ] },
         "format": "text/html"
       }
     ],
@@ -22,7 +22,7 @@
       {
         "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/joyce-lieberman-palmist-reading-of-gloria-15-november-1980/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 2798.0,
+        "duration": 0,
         "annotations": [
           
           {
@@ -51,8 +51,8 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "no media",
-                    "duration": 2798.0
+                  "id": "",
+                    "duration": 0
                 },
                 "target": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/joyce-lieberman-palmist-reading-of-gloria-15-november-1980/canvas-1/canvas"
               }
