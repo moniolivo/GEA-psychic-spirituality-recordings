@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/tarot-reading-for-gloria-by-lisa-levin-brooklyn-1984-november-30/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Tarot reading for Gloria by Lisa Levin, Brooklyn, 1984 November 30" ] },
+    "homepage": [
+      {
+        "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
+        "type": "Text",
+        "label": { "en": [ "Tarot reading for Gloria by Lisa Levin, Brooklyn, 1984 November 30" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://llilasbenson.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "LLILAS Benson" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/tarot-reading-for-gloria-by-lisa-levin-brooklyn-1984-november-30/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 9690.0,
+        "items": [
+          {
+            "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/tarot-reading-for-gloria-by-lisa-levin-brooklyn-1984-november-30/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/tarot-reading-for-gloria-by-lisa-levin-brooklyn-1984-november-30/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "no media",
+                    "duration": 9690.0
+                },
+                "target": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/tarot-reading-for-gloria-by-lisa-levin-brooklyn-1984-november-30/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
