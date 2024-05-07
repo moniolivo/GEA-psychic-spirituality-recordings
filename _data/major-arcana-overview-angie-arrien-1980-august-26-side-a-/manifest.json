@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-a-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Major Arcana - overview - Angie Arrien, 1980 August 26 [Side A]" ] },
+    "label": { "en": [ "Major Arcana for Angie Arrien, 1980 August 26 [Side A]" ] },
     "homepage": [
       {
         "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
         "type": "Text",
-        "label": { "en": [ "Major Arcana - overview - Angie Arrien, 1980 August 26 [Side A]" ] },
+        "label": { "en": [ "Major Arcana for Angie Arrien, 1980 August 26 [Side A]" ] },
         "format": "text/html"
       }
     ],
@@ -22,7 +22,7 @@
       {
         "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-a-/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 720.0,
+        "duration": 0,
         "annotations": [
           
           {
@@ -43,8 +43,8 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "no media",
-                    "duration": 720.0
+                  "id": "",
+                    "duration": 0
                 },
                 "target": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/major-arcana-overview-angie-arrien-1980-august-26-side-a-/canvas-1/canvas"
               }
