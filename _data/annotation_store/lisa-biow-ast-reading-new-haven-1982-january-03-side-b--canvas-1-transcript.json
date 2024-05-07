@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/annotations/lisa-biow-ast-reading-new-haven-1982-january-03-side-b--canvas-1-transcript.json",
+  "type": "AnnotationPage",
+  "label": "Transcript",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lisa-biow-ast-reading-new-haven-1982-january-03-side-b--canvas-1-transcript-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Song in foreign language plays [Intermittent sounds of pages turning; door opens]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/lisa-biow-ast-reading-new-haven-1982-january-03-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/lisa-biow-ast-reading-new-haven-1982-january-03-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,1834.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lisa-biow-ast-reading-new-haven-1982-january-03-side-b--canvas-1-transcript-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Tape ends",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/lisa-biow-ast-reading-new-haven-1982-january-03-side-b-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/lisa-biow-ast-reading-new-haven-1982-january-03-side-b-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1854.0"
+        }
+      }
+    }
+  ]
+}
