@@ -22,7 +22,7 @@
       {
         "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 1290.0,
+        "duration": 0,
         "annotations": [
           
           {
@@ -43,8 +43,8 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "no media",
-                    "duration": 1290.0
+                  "id": "",
+                    "duration": 0
                 },
                 "target": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/sharon-crase-dream-interp-then-taro-1980-september-30-side-b-/canvas-1/canvas"
               }
