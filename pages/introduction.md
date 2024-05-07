@@ -12,7 +12,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <br><br>
 *what have you given me? mostly yourself… your story… i’m not sure of the words.*
 <br>        —Correspondence to Anzaldúa, 1985
-<br><br><br>
+<br>
 
 ---
 
