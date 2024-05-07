@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://moniolivo.github.io/GEA-psychic-spirituality-recordings/angie-arrien-whole-person-spread-g-anzald-a-end-1980-august-21-side-b-/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Angie Arrien, Whole Person Spread for G. Anzaldúa - 1980 August 21 [Side B]" ] },
+    "label": { "en": [ "Angie Arrien, Whole Person Spread for G. Anzaldúa, 1980 August 21 [Side B]" ] },
     "homepage": [
       {
         "id": "https://txarchives.org/utlac/finding_aids/00189.xml",
         "type": "Text",
-        "label": { "en": [ "Angie Arrien, Whole Person Spread for G. Anzaldúa - 1980 August 21 [Side B]" ] },
+        "label": { "en": [ "Angie Arrien, Whole Person Spread for G. Anzaldúa, 1980 August 21 [Side B]" ] },
         "format": "text/html"
       }
     ],
