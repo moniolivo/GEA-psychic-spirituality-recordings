@@ -6,12 +6,16 @@ permalink: introduction
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 # Annotating Spirituality in the Gloria Evangelina Anzaldúa Papers
+
 *I wonder if the academic world, which has so much of what I want, is too narrow and rigid for me to fit into. And then…I hear you speak, and I think all I need to do is to continue; being myself, thinking, writing, speaking, listening, reading, taking risks. The risks that you have taken, and continue to take, are such a gift to me. Your voice validates my being in a loving way. I thank you.*
 <br>        —Correspondence to Anzaldúa, 1993
 <br><br>
 *what have you given me? mostly yourself… your story… i’m not sure of the words.*
 <br>        —Correspondence to Anzaldúa, 1985
 <br><br><br>
+
+---
+
 In a quiet room, you pull a CD from a paper envelope and place it in the drive of a desktop computer; it’s a copy of a tape recording from 1983. When you press it shut, the drive tray makes a small and satisfying click against your fingertip. The disk begins to whirr, suddenly the loudest thing in the room. You put in your earbuds and are surprised to remember the sound of your own breath. When was the last time you listened? The audio starts playing: First, a thick clack and the muffled grazing of hands over the microphone. Then, the gentle clatter of the tape recorder set down upon a hard surface. You hear a woman’s voice: 
 <br><br>
 “What’s today?”
