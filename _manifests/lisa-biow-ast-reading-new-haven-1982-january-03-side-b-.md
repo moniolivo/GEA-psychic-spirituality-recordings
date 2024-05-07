@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Lisa Biow, Ast. Reading, New Haven, 1982 January 03 [Side B]
+title: Lisa Biow Astrology Reading, 1982 January 03 [Side B]
 manifest_name: lisa-biow-ast-reading-new-haven-1982-january-03-side-b-
 
 ---
